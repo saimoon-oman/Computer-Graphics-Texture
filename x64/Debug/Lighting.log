@@ -1,0 +1,43 @@
+﻿  main.cpp
+E:\Lighting Student Version\main.cpp(591,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(592,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(593,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(619,59): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(619,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(619,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(626,59): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(626,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(626,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(633,59): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(633,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(633,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(640,59): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(640,52): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(640,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(647,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(671,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(672,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(673,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(697,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(729,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(762,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(763,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(764,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(821,47): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(822,52): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(823,34): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(825,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(826,75): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(827,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(828,75): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(829,75): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(840,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(847,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(854,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Lighting Student Version\main.cpp(862,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lighting Student Version\main.cpp(867,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lighting Student Version\main.cpp(872,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lighting Student Version\main.cpp(877,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Lighting Student Version\main.cpp(882,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lighting Student Version\main.cpp(887,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> E:\Lighting Student Version\x64\Debug\Lighting.exe
